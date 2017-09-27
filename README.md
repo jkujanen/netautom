@@ -1,6 +1,7 @@
 # Lab Setup
 ## Simple lab for testing ansible
 ### Equipment:
+  Something old, something new...
   R1,R2,R3 Cisco CSR1000v
   R4, R5 Cumulus Linux
 
