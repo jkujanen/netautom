@@ -1,8 +1,8 @@
 # Lab Setup
 Simple lab for testing ansible
 ### Equipment:
-R1,R2,R3 Cisco CSR1000vi, grouped to "ios_devices"
-R4, R5 Cumulus Linux, grouped to "cl_devices"
+R1,R2,R3 Cisco CSR1000v, group "ios_devices"
+R4, R5 Cumulus Linux,  group "cl_devices"
 
 ### Topology:
 
