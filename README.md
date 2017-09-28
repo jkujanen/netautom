@@ -1,10 +1,11 @@
-#Lab Setup
-##Simple lab for testing ansible
-###Equipment:
+# Lab Setup
+## Simple lab for testing ansible
+### Equipment:
+  Something old, something new...
   R1,R2,R3 Cisco CSR1000v
   R4, R5 Cumulus Linux
 
-###Topology:
+### Topology:
 
           R1
          /  \
@@ -13,7 +14,7 @@
        R4----R5
 
  
-###Addressing:
+### Addressing:
 #### Link addresses:
  192.168.RouterlowRouterhigh.router/24
  for example R2-R3:
