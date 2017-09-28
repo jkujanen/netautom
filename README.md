@@ -1,5 +1,5 @@
 # Lab Setup
-## Simple lab for testing ansible
+Simple lab for testing ansible
 ### Equipment:
 R1,R2,R3 Cisco CSR1000vi, grouped to "ios_devices"
 R4, R5 Cumulus Linux, grouped to "cl_devices"
@@ -17,9 +17,13 @@ R4, R5 Cumulus Linux, grouped to "cl_devices"
 Access by SSH: ansible/ansible
 #### Management Addresses:
 R1: 192.168.122.11
+
 R2: 192.168.122.12
+
 R3: 192.168.122.13
+
 R4: 192.168.122.14
+
 R5: 192.168.122.15
 
 #### Link addresses:
